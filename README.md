@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an enhanced version of the popular game *Tic Tac Toe*, developed as the final project of **Basics of Programming** (**Fall 2022**) course at **Iran University of Science and Technology**.
+This is an enhanced version of the popular game *Tic Tac Toe*, developed as the final project of **Basics of Programming** (**Fall 2022**) course at **Iran University of Science and Technology**. The architecture of the project is based on the [project description](description.pdf) provided by teaching assistants.
 
 ## Installation
 
